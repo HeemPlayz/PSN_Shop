@@ -1,2 +1,3 @@
-# PSN_Shop
-https://psn.glitch.me
+# PSN Shop
+
+### This the best shop for selling legal PSN Accounts
